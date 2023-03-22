@@ -424,6 +424,12 @@ footer{
 
 }
 @media  screen  and (width<=650px) {
+
+   
+   #home{
+    flex-direction: column-reverse;
+  }
+
   /* Services section */
   #services{
     height: 360vh;
