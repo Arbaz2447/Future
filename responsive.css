@@ -157,7 +157,9 @@
    /* services section */
   #services{
     width: 130%;
-    height: 353vh;
+    height: 393vh;
+    align-items: center;
+    justify-content: start;
   }
   .services-main{
     height: 270vh;
