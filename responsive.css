@@ -82,9 +82,7 @@
 }
 @media  screen  and (width<=650px) {
 
-   #home{
-    flex-direction: column-reverse;
-  }
+   
 
 
   /* Services section */
