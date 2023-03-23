@@ -129,7 +129,7 @@ html{
   flex-direction: column;
 }
 .about-img img {
-  margin: 5% -2%;
+  margin-top: 5%;
   height: 200px;
   width: 200px;
   border: 4px solid var(--borders);
@@ -460,9 +460,12 @@ footer{
 
 
 @media  screen  and (width<=500px){
+  *{
+    font-size:10px;
+  }
   /* Home  */
   .small{
-    font-size: 12px;
+    font-size: 10x;
   }
   #home{
     height: 125vh;
