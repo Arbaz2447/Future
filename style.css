@@ -425,7 +425,9 @@ footer{
 }
 @media  screen  and (width<=650px) {
 
-   
+  #home{
+    flex-direction: column-reverse;
+  } 
   
 
   /* Services section */
@@ -465,7 +467,7 @@ footer{
   }
   /* Home  */
   .small{
-    font-size: 10x;
+    font-size:  8px;
   }
   #home{
     height: 125vh;
@@ -554,7 +556,7 @@ footer{
     font-size: 7px;
   }
   .main-clients{
-    font-size: 1rem;
+    font-size: 10px;
   }
 }
 
