@@ -209,11 +209,13 @@ vh;
   grid-row: span 10;
   height: 400px;
   height: 468px;
+  display:none;
 }
 .item:nth-child(9) {
   grid-column: span 2;
   grid-row: span 6;
   height: 400px;
+   display:none;
 }
 .item:nth-child(10) {
   grid-column: span 2;
@@ -226,7 +228,7 @@ vh;
   width: 100%;
   color: var(--text-color);
   background-color:var(--bg-1);
- height: 90vh;
+ height: 95vh;
  
 }
 /*----------------------------------------------------- Client section -------------------------------------------------*/
